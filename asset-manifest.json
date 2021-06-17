@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aman007shrestha/reactBasic/static/css/main.29e89bd6.chunk.css",
+    "main.js": "/aman007shrestha/reactBasic/static/js/main.3bd93121.chunk.js",
+    "main.js.map": "/aman007shrestha/reactBasic/static/js/main.3bd93121.chunk.js.map",
+    "runtime-main.js": "/aman007shrestha/reactBasic/static/js/runtime-main.433ba040.js",
+    "runtime-main.js.map": "/aman007shrestha/reactBasic/static/js/runtime-main.433ba040.js.map",
+    "static/js/2.59bce010.chunk.js": "/aman007shrestha/reactBasic/static/js/2.59bce010.chunk.js",
+    "static/js/2.59bce010.chunk.js.map": "/aman007shrestha/reactBasic/static/js/2.59bce010.chunk.js.map",
+    "static/js/3.77007d5e.chunk.js": "/aman007shrestha/reactBasic/static/js/3.77007d5e.chunk.js",
+    "static/js/3.77007d5e.chunk.js.map": "/aman007shrestha/reactBasic/static/js/3.77007d5e.chunk.js.map",
+    "index.html": "/aman007shrestha/reactBasic/index.html",
+    "static/css/main.29e89bd6.chunk.css.map": "/aman007shrestha/reactBasic/static/css/main.29e89bd6.chunk.css.map",
+    "static/js/2.59bce010.chunk.js.LICENSE.txt": "/aman007shrestha/reactBasic/static/js/2.59bce010.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.433ba040.js",
+    "static/js/2.59bce010.chunk.js",
+    "static/css/main.29e89bd6.chunk.css",
+    "static/js/main.3bd93121.chunk.js"
+  ]
+}
